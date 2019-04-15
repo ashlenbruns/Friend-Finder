@@ -5,3 +5,11 @@ Are you ready to find your new BFF?  Complete the short survey, and you will be 
 BEFORE RUNNING:
 - `npm install express`
 - `npm install path`
+
+### TECHNOLOGIES USED
+* JavaScript
+* jQuery
+* Node
+* Express
+* Path
+* Bootstrap
